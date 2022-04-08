@@ -36,7 +36,7 @@ PowerShellVersion = '2.0'
 # PowerShellHostName = ''
 
 # Minimum version of the Windows PowerShell host required by this module
-PowerShellHostVersion = '2.0'
+PowerShellHostVersion = '1.0'
 
 # Minimum version of Microsoft .NET Framework required by this module. This prerequisite is valid for the PowerShell Desktop edition only.
 DotNetFrameworkVersion = '2.0'
